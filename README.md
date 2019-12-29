@@ -6,6 +6,9 @@ citizen science that helps us avert the sixth mass extinction.
 videt visualizes open datasets of processes that might have an influence on ecosystem functioning. At its core, it uses
 [bokeh](https://docs.bokeh.org/en/latest/) and allows users to interactively choose datasets to show.
 
+### Requirements
+```` bokeh ```` and ````pandas```` are required to run this application. To install requirements using pip execute ````pip install -r requirements.txt````.
+
 ### Usage
 
 As there is no online version of videt yet, users need to clone the repo, `cd` into the videt folder and then run
